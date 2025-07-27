@@ -4,7 +4,7 @@ A passionate MERN stack developer with experience in building full-stack web app
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/fenil-parmar-90471524a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fenilp1979@gmail.com) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)]([https://linkedin.com/in/https://www.linkedin.com/in/fenil-parmar-90471524a](https://www.linkedin.com/in/fenil-parmar-90471524a)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fenilp1979@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://fenil-parmar-portfolio.vercel.app/)
 
 # 💻 Tech Stack:
