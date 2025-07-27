@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Fenil
 
-# 💫 About Me:
 A passionate MERN stack developer with experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in creating responsive user interfaces, designing RESTful APIs, and implementing robust backend logic. Currently exploring the world of AI and machine learning with a strong interest in integrating intelligent features into modern web applications. Seeking opportunities to develop impactful, scalable, and high-performance software solutions.
 
 
