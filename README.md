@@ -27,7 +27,9 @@ A passionate MERN stack developer with experience in building full-stack web app
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil321&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="fenil321"/></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil321&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="fenil321"/>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fenil321&label=Profile%20views&color=0e75b6&style=flat" alt="fenil321" /> </p>
 
